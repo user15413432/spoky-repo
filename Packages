@@ -1,0 +1,18 @@
+Package: com.myrepospace.smolk.appsync6
+Version: 2.2
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync, us.hackulo.appsync50plus
+Filename: debs/com.myrepospace.smolk.appsync6_2.2_iphoneos-arm.deb
+Size: 4552
+MD5sum: 3d11e7b0c305f0af5eb7d61c4edbb0f6
+SHA1: d4c4b5029d48266658d48f1b69f4c157005e9537
+SHA256: c19d818eaede07a07a641d2323a9b086c98fb38185d2281fe145e5e2c878ebee
+Section: iPhoneate System
+Priority: standard
+Description: Appsync позволяет устанавливать взломанные приложения на iOS 5-6
+Depiction: http://smolk.myrepospace.com
+Name: AppSync for iOS 6.x
+
