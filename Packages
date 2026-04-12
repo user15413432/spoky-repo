@@ -42,16 +42,16 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Spoky
 Installed-Size: 512
-Depends: firmware (>= 6.0), firmware (<= 6.1.6)
+Depends: firmware (>= 6.0), firmware (<= 6.1.6), mobilesubstrate
 Filename: debs/com.spoky.diagnostic666_1.0.0_iphoneos-arm.deb
-Size: 23332
-MD5sum: 765593d844a406e77ba3a4e24f8bd99a
-SHA1: 2ffd1fcfa6bdd00a67e67d165050fabc95edf40a
-SHA256: c3c7a8bcadb7705fc02ddc196dbd7a157edd133b95f221e8912602fe62f9e5e5
+Size: 24464
+MD5sum: 2a9ee9b9bb7776721be6d35aa7b6726b
+SHA1: 048c863d2bcb338ed131e01bdf2ecef972ccfc78
+SHA256: 73ce3224f99017eab99d26fe878afa252f5577931cf4da635fd502807bacd246
 Section: Utilities
 Priority: optional
-Description: A comprehensive diagnostic tool for legacy iOS 6 devices. Features include device info, battery diagnostics, microphone test, camera test, and call testing functionality. Designed specifically for iPhone 4/4S and iPod Touch 4.
-Tag: purpose::diagnostic, compatible::ios6
+Description: A comprehensive diagnostic tool for legacy iOS 6 devices. Features device info, battery diagnostics, microphone, camera, and call testing. For iPhone 4/4S and iPod Touch 4.
+Tag: purpose::diagnostic
 Author: Spoky
 Icon: file:///Applications/Diagnostic666.app/Icon.png
 Name: Diagnostic666
